@@ -1,4 +1,3 @@
-osan 0 tehtävien vastaukset
 0.4
 selain->palvelin: 
 HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
